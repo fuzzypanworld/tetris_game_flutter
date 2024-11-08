@@ -1,0 +1,6 @@
+{
+  "appTitle": "tetris_tute",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
